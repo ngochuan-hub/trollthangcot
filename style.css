@@ -64,4 +64,5 @@ body {
 }
 #video {
   border: solid #000;
+  background-position: center;
 }
